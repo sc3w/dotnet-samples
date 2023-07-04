@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9nB5pgfewHNKQlSAOZhNHF+9uKLcdyg4Vehv+OWOwYs=",
+  "Source": "FeatureManagement",
+  "BasePath": "_content/FeatureManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

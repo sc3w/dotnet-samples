@@ -1,16 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "y03UkN27NSTsVpvL/X0MFFVg7QUm0IWlBOBJ4T3QtLMQrVloyvK8dqOBYq7ZOIhvKRda/3H6kX1/KS9QgLXs8w==",
+  "dgSpecHash": "tJELZoZO0Xp8a/WyuCfxTQDl8Es8pTtYosdoy9SFCFYgmiEDNQBuayj+ATasq1VgoZVxDN6rzHte0+y5D3viQw==",
   "success": true,
   "projectFilePath": "/Users/csabi/Workspace/github/dotnet-samples/FeatureManagement/FeatureManagement.csproj",
   "expectedPackageFiles": [
     "/Users/csabi/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/csabi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.caching.abstractions/2.1.2/microsoft.extensions.caching.abstractions.2.1.2.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.caching.memory/2.1.23/microsoft.extensions.caching.memory.2.1.23.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.configuration/2.1.1/microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.1/microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.configuration.binder/2.1.10/microsoft.extensions.configuration.binder.2.1.10.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.1/microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.logging/2.1.1/microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.options/2.1.1/microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.extensions.primitives/2.1.1/microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.featuremanagement/2.6.1/microsoft.featuremanagement.2.6.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/microsoft.featuremanagement.aspnetcore/2.6.1/microsoft.featuremanagement.aspnetcore.2.6.1.nupkg.sha512",
     "/Users/csabi/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/csabi/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/csabi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/csabi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/csabi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/csabi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/csabi/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
   ],
   "logs": []
 }
